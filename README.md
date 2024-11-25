@@ -8,7 +8,7 @@ The transmitter enables the playback of music or podcasts through car speakers i
 
 
 # Demonstration
-A detailed video of the project can be found here.
+A detailed picture of the project can be found here.
 
 <img width="480" alt="Screenshot 2024-11-25 at 6 26 55 PM" src="https://github.com/user-attachments/assets/3917fdfd-6f26-403e-9dc8-94532a1a19fc">
 <img width="485" alt="Screenshot 2024-11-25 at 6 27 18 PM" src="https://github.com/user-attachments/assets/a7ca7456-7cc4-4b2c-9334-1972b6373e3d">
